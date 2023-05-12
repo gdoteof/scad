@@ -1,0 +1,6 @@
+[submodule "dotSCAD"]
+	path = dotSCAD
+	url = git@github.com:JustinSDK/dotSCAD.git
+[submodule "BOSL2"]
+	path = BOSL2
+	url = git@github.com:revarbat/BOSL2.git
